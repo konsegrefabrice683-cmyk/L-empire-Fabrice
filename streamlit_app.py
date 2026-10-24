@@ -1,1 +1,1 @@
-df = pd.DataFrame(rows, columns=["Match","Prono","Cote","Proba","Value","IA","STATUT"])
+df = pd.DataFrame(rows, columns=["Match","Prono","Cote"...])
