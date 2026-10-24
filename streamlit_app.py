@@ -1,1 +1,1 @@
-st.dataframe(df, width='stretch')
+], columns=["Match","Prono","Cote LONAB","Proba","Value","IA %","STATUT"])
